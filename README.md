@@ -46,7 +46,7 @@ At a delay of ~10ms, I can no longer perceive blinking
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
 Yes.  The potentiometer is a acting as a voltage resistor.  As I turn the potentiometer, the resistance increases/decreases influence the amount of current going through the circuit and how bright the LED will glow. 
-[My Glow Video](https://photos.app.goo.gl/LDEgweeLkWETSJTz5)
+[Fade/Glow Video](https://photos.app.goo.gl/LDEgweeLkWETSJTz5)
 
 ## Part E. Fade an LED using Arduino
 
