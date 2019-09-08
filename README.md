@@ -71,7 +71,8 @@ analogWrite allows us to variably adjust the voltage input as opposed to only Hi
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
 
-[Microphone Board](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Microphone%20Board.jpg)
+![Microphone Board](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Microphone%20Board.jpg)
+
 [Schematic](###)
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
