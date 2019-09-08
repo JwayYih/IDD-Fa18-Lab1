@@ -40,12 +40,13 @@ At a delay of ~10ms, I can no longer perceive blinking
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-![My Blink Video](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/My%20Blink%20Video.mp4)
+[My Blink Video](https://photos.app.goo.gl/opVq1ijYFhfzgiyh6)
 
 ## Part D. Manually fade an LED
 
 **a. Are you able to get the LED to glow the whole turning range of the potentiometer? Why or why not?**
 Yes.  The potentiometer is a acting as a voltage resistor.  As I turn the potentiometer, the resistance increases/decreases influence the amount of current going through the circuit and how bright the LED will glow. 
+[My Glow Video](https://photos.app.goo.gl/LDEgweeLkWETSJTz5)
 
 ## Part E. Fade an LED using Arduino
 
