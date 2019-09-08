@@ -34,7 +34,7 @@ Change the number in the delay. Units are in ms.
 At a delay of ~10ms, I can no longer perceive blinking
 
 **e. Modify the code to make your LED blink your way. Save your new blink code to your lab 1 repository, with a link on the README.md.**
-See BlinkMyWay.ino
+[BlinkMyWay.ino](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/BlinkMyWay.ino)
 
 ### 2. Blink your LED
 
