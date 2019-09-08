@@ -40,7 +40,7 @@ At a delay of ~10ms, I can no longer perceive blinking
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-[My Blink Video](https://photos.app.goo.gl/opVq1ijYFhfzgiyh6)
+[My Blink Video](https://photos.app.goo.gl/5hWD3orHpzHwkZtq7)
 
 ## Part D. Manually fade an LED
 
