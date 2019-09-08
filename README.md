@@ -3,7 +3,7 @@
 **A lab report by Johnway Yih. Student**
 
 ## Part A. Set Up a Breadboard
-https://photos.app.goo.gl/TAjFkB3UTgbSdWwy6
+[Breadboard Setup] https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Breadboard%20Setup.jpg
 
 ## Part B. Manually Blink a LED
 
@@ -40,7 +40,7 @@ At a delay of ~10ms, I can no longer perceive blinking
 
 **Make a video of your LED blinking, and add it to your lab submission.**
 
-https://photos.app.goo.gl/UxQCF32NkZgXUnrr8
+[My Blink Video](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/My%20Blink%20Video.mp4)
 
 ## Part D. Manually fade an LED
 
