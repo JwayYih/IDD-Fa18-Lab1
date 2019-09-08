@@ -54,28 +54,39 @@ Yes.  The potentiometer is a acting as a voltage resistor.  As I turn the potent
 Assign the proper pin (11)
 int led = 11;           // the PWM pin the LED is attached to
 
-
 **b. What is analogWrite()? How is that different than digitalWrite()?**
 analogWrite allows us to variably adjust the voltage input as opposed to only High (5v or 3v) or Low (Ground)
 
 ## Part F. FRANKENLIGHT!!!
 
 ### 1. Take apart your electronic device, and draw a schematic of what is inside. 
+[Microphone Board](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Microphone%20Board.jpg)
+[Schematic](###)
 
 **a. Is there computation in your device? Where is it? What do you think is happening inside the "computer?"**
+Yes, there does seem to be a processor, circled in red.  The device is a microphone, so I believe some sort of audio input is being transferred down the black wire on the left, processed, and then outputted through the RGWB cables on the top right.
 
 **b. Are there sensors on your device? How do they work? How is the sensed information conveyed to other portions of the device?**
+There must be some sort of microphone sensor in the neck of the device which is transferring a signal down the black wire.
 
 **c. How is the device powered? Is there any transformation or regulation of the power? How is that done? What voltages are used throughout the system?**
+The device is powered from the 5V/Ground connect on the top right thicker black cable.  This power is drawn from a USB output port, such as a computer/laptop.  Power seems to be managed/transformed through the various resistors and capacitors on the board.  There is a switch @ SW1 which controls on/off.
 
 **d. Is information stored in your device? Where? How?**
+I don't believe information is stored on this device.
 
 ### 2. Using your schematic, figure out where a good point would be to hijack your device and implant an LED.
 
 **Describe what you did here.**
+I connected it at two locations
+1) Attached where an exisiting LED already was and simply placed it in parallel.
+2) Attached where I assume output signals are being sent back to the laptop.
 
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**
+[Franken Light](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Franken%20Light.jpg)
+[Franken Light Video](https://photos.app.goo.gl/yomcpruqp3SwFURt8)
+Connected at signal output pins? And attaching to onboard LED location
 
 **Include any schematics or photos in your lab write-up.**
