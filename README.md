@@ -3,7 +3,7 @@
 **A lab report by Johnway Yih. Student**
 
 ## Part A. Set Up a Breadboard
-[Breadboard Setup] https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Breadboard%20Setup.jpg
+![Breadboard Setup](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Breadboard%20Setup.jpg)
 
 ## Part B. Manually Blink a LED
 
