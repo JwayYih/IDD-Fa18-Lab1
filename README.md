@@ -85,7 +85,8 @@ I connected it at two locations
 ### 3. Build your light!
 
 **Make a video showing off your Frankenlight.**
-[Franken Light](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Franken%20Light.jpg)
+![Franken Light](https://github.com/JwayYih/IDD-Fa18-Lab1/blob/master/Franken%20Light.jpg)
+
 [Franken Light Video](https://photos.app.goo.gl/yomcpruqp3SwFURt8)
 Connected at signal output pins? And attaching to onboard LED location
 
